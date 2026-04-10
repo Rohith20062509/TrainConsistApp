@@ -36,6 +36,8 @@ public class TrainConsistApp {
             System.out.println(bogie);
         }
 
+        System.out.println("\nTotal Bogies: " + train.size());
+
         System.out.println("\nProgram continues...");
     }
 }
